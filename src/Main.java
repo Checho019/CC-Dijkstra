@@ -40,7 +40,7 @@ public class Main {
                 visited[j] = false;
             }
 
-            // Find the shortest distance
+            // Find the shortest path
             visited[i] = true;
             while (validateVisitedList(visited, i)){
                 int position = 0, lowest = Integer.MAX_VALUE;
@@ -54,7 +54,7 @@ public class Main {
                     }
                 }
 
-                // Replace another ways
+                // Replace another path
                 visited[position] = true;
                 for (int k = 0; k < numNodes; k++){
                     if (matrix[position][k] != 0){
