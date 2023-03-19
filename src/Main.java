@@ -9,7 +9,6 @@ public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(data);
         numNodes = input.nextInt();
-        int edges = input.nextInt();
         matrix = new int[numNodes][numNodes];
 
         while (input.hasNext()) {

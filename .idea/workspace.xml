@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afc27cf8-3026-47b2-962e-f8a880279e02" name="Changes" comment="Commit inicial">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="afc27cf8-3026-47b2-962e-f8a880279e02" name="Changes" comment="dijkstra algorithm impl">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679180197782</updated>
       <workItem from="1679180198936" duration="13037000" />
-      <workItem from="1679229774720" duration="3414000" />
+      <workItem from="1679229774720" duration="3495000" />
     </task>
     <task id="LOCAL-00001" summary="Commit inicial">
       <created>1679180475967</created>
@@ -60,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679180489924</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="dijkstra algorithm impl">
+      <created>1679234103100</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679234103100</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,6 +74,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit inicial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit inicial" />
+    <MESSAGE value="dijkstra algorithm impl" />
+    <option name="LAST_COMMIT_MESSAGE" value="dijkstra algorithm impl" />
   </component>
 </project>
